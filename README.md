@@ -17,3 +17,5 @@ A simple command-line interface (CLI) application for managing notes. Add notes,
    ```bash
    git clone https://github.com/jcriz99/node-notes.git
    cd node-notes
+
+![Description of the screenshot](assets/Example.png)
